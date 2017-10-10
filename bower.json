@@ -5,7 +5,13 @@
   ],
   "description": "Babylon.js: a complete JavaScript framework for building 3D games with HTML 5 and WebGL http://www.babylonjs.com",
   "main": [
-    "./src/limited-scene.service.js","./src/sky.service.js"
+    "./src/limited-scene.service.js",
+    "./src/sky.service.js",
+    "./src/airfield-scene.service.js",
+    "./src/WorldAxis.js",
+    "./src/ground-scene.service.js",
+    "./src/tube-scene.service.js",
+    "./src/PHLabel.service.js"
   ],
   "license": "MIT",
   "homepage": "",
