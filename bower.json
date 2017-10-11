@@ -11,7 +11,10 @@
     "./src/WorldAxis.js",
     "./src/ground-scene.service.js",
     "./src/tube-scene.service.js",
-    "./src/PHLabel.service.js"
+    "./src/PHLabel.service.js",
+    "./src/searchUrl.service.js",
+    "./src/timeRange.service.js",
+    "./src/timeRangeSearch.service.js"
   ],
   "license": "MIT",
   "homepage": "",
